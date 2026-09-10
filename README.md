@@ -38,6 +38,7 @@ I build production-grade full stack applications and increasingly work on **agen
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
 <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 
@@ -58,7 +59,6 @@ I build production-grade full stack applications and increasingly work on **agen
 - **[react-native-reverb](https://github.com/azlanali076/react-native-reverb)** — React Native TurboModule wrapper for Laravel Reverb WebSocket
 - **[litepdf](https://github.com/azlanali076/litepdf)** — Lite PDF Laravel wrapper
 - **[react-native-autofill-credentials](https://github.com/azlanali076/react-native-autofill-credentials)** — Android autofill credentials bridge for React Native
-- **[twilio-voice-calling](https://github.com/azlanali076/twilio-voice-calling)** — Twilio voice calling integration
 
 ### 📊 GitHub Stats
 
