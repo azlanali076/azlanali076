@@ -11,6 +11,10 @@
   <a href="https://syedazlanali.me"><img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_to_Work-2EA44F?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work"/>
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -52,6 +56,12 @@ I build production-grade full stack applications and increasingly work on **agen
 - **[litepdf](https://github.com/azlanali076/litepdf)** — Lite PDF Laravel wrapper
 - **[react-native-autofill-credentials](https://github.com/azlanali076/react-native-autofill-credentials)** — Autofill credentials bridge for React Native (Android & iOS)
 
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy-nu.vercel.app/?username=azlanali076&theme=flat&no-frame=true&row=1&column=7" alt="Trophies"/>
+</p>
+
 ### 📊 GitHub Stats
 
 <p align="center"><sub>Public repositories only</sub></p>
@@ -63,4 +73,12 @@ I build production-grade full stack applications and increasingly work on **agen
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=azlanali076&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azlanali076/azlanali076/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azlanali076/azlanali076/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/azlanali076/azlanali076/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
