@@ -64,11 +64,10 @@ I build production-grade full stack applications and increasingly work on **agen
 
 ### 📊 GitHub Stats
 
-<p align="center"><sub>Public repositories only</sub></p>
+<p align="center"><sub>Self-hosted via GitHub Actions — public repositories only</sub></p>
 
 <p align="center">
-  <img src="https://github-readme-stats-iota-plum.vercel.app/api?username=azlanali076&show_icons=true&theme=default&hide_border=true" alt="Azlan's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats-iota-plum.vercel.app/api/top-langs/?username=azlanali076&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://raw.githubusercontent.com/azlanali076/azlanali076/main/github-metrics.svg" alt="Azlan's GitHub metrics"/>
 </p>
 
 <p align="center">
