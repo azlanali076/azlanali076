@@ -17,7 +17,7 @@
 
 I build production-grade full stack applications and increasingly work on **agentic AI systems** — wiring LLMs into real workflows with tools, memory, and orchestration rather than just chat wrappers.
 
-- 🔭 Currently building full stack apps and agentic AI tooling
+- 🔭 Currently building full stack apps, MCP servers, and RAG bots
 - 🌱 Deepening my work with LLM agents, tool-use, and multi-agent orchestration
 - 💬 Ask me about Laravel/PHP, React Native, Kotlin/Java, or agentic AI architectures
 - 📫 Reach me at **azlanali076@gmail.com**
@@ -38,7 +38,7 @@ I build production-grade full stack applications and increasingly work on **agen
 
 **Agentic AI**
 
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude / Anthropic"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude / Anthropic"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/> <img src="https://img.shields.io/badge/MCP_Servers-000000?style=flat-square" alt="MCP Servers"/> <img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square" alt="RAG"/>
 
 ### 🛡️ SafeDryver
 
