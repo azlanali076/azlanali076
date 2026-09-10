@@ -50,7 +50,7 @@ I build production-grade full stack applications and increasingly work on **agen
 
 - **[react-native-reverb](https://github.com/azlanali076/react-native-reverb)** — React Native TurboModule wrapper for Laravel Reverb WebSocket
 - **[litepdf](https://github.com/azlanali076/litepdf)** — Lite PDF Laravel wrapper
-- **[react-native-autofill-credentials](https://github.com/azlanali076/react-native-autofill-credentials)** — Android autofill credentials bridge for React Native
+- **[react-native-autofill-credentials](https://github.com/azlanali076/react-native-autofill-credentials)** — Autofill credentials bridge for React Native (Android & iOS)
 
 ### 📊 GitHub Stats
 
