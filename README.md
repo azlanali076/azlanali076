@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/syedazlanali076/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/azlanali076"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
   <a href="mailto:azlanali076@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://azlanali076.github.io"><img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=github&logoColor=white" alt="Website"/></a>
+  <a href="https://syedazlanali.me"><img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 </p>
 
 ---
